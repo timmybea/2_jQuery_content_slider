@@ -1,0 +1,11 @@
+jQuery
+
+$() - jQuery object
+
+selector
+$( '#header' ); // select the element with an ID of 'header'
+$( 'li' );      // select all list items on the page
+$( 'ul li' );   // select list items that are in unordered lists
+$( '.person' ); // select all elements with a class of 'person'
+
+events - actions that are performed on the selected element(s)
